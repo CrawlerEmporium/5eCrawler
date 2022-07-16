@@ -1,1 +1,131 @@
-{}
+{
+  "lookup.monster.name": "monster",
+  "lookup.monster.description": "Sucht nach einem Monster.",
+  "lookup.monster.name.name": "name",
+  "lookup.monster.name.description": "Welches Monster suchen Sie?",
+
+  "lookup.spell.name": "zauber",
+  "lookup.spell.description": "Schaut nach einem Zauber.",
+  "lookup.spell.name.name": "name",
+  "lookup.spell.name.description": "Nach welchem Zauber suchen Sie?",
+
+  "lookup.item.name": "ausrüstungsgegenstand",
+  "lookup.item.description": "Sucht einen Ausrüstungsgegenstand.",
+  "lookup.item.name.name": "name",
+  "lookup.item.name.description": "Welches Ausrüstungsgegenstand suchen Sie?",
+
+  "lookup.feat.name": "talent",
+  "lookup.feat.description": "Sucht ein Talent.",
+  "lookup.feat.name.name": "name",
+  "lookup.feat.name.description": "Welches Talent suchen Sie?",
+
+  "lookup.deity.name": "gottheit",
+  "lookup.deity.description": "Sucht nach einer Gottheit.",
+  "lookup.deity.name.name": "name",
+  "lookup.deity.name.description": "Nach welcher Gottheit suchen Sie?",
+
+  "lookup.object.name": "objekt",
+  "lookup.object.description": "Sucht nach einem Objekt.",
+  "lookup.object.name.name": "name",
+  "lookup.object.name.description": "Welches Objekt suchen Sie?",
+
+  "lookup.race.name": "volk",
+  "lookup.race.description": "Sucht nach einem Volk.",
+  "lookup.race.name.name": "name",
+  "lookup.race.name.description": "Nach welchem Volk suchen Sie?",
+
+  "lookup.condition.name": "zustand",
+  "lookup.condition.description": "Sucht nach einem Zustand.",
+  "lookup.condition.name.name": "name",
+  "lookup.condition.name.description": "Nach welchem Zustand suchen Sie?",
+
+  "lookup.magictable.name": "magietabelle",
+  "lookup.magictable.description": "[Patron] Würfle einen Gegenstand aus den magie Tabellen.",
+  "lookup.magictable.table.name": "tabelle",
+  "lookup.magictable.table.description": "Auf welcher magischen Tabelle wollen Sie würfeln?",
+
+  "lookup.loot.name": "beute",
+  "lookup.loot.description": "[Patron] Beute basierend auf der Seltenheit des Gegenstands generieren.",
+  "lookup.loot.rarity.name": "name",
+  "lookup.loot.rarity.description": "Welche Gegenstandsseltenheit wollen Sie würfeln?",
+
+  "lookup.disease.name": "krankheit",
+  "lookup.disease.description": "Sucht nach einer Krankheit.",
+  "lookup.disease.name.name": "Name",
+  "lookup.disease.name.description": "Nach welcher Krankheit suchen Sie?",
+
+  "lookup.library.name": "bibliothek",
+  "lookup.library.description": "Schaut in der Bibliothek nach.",
+  "lookup.library.name.name": "name",
+  "lookup.library.name.description": "Welche Bibliothek wollen Sie sehen?",
+
+  "lookup.rule.name": "regel",
+  "lookup.rule.description": "Sucht nach einer Regel.",
+  "lookup.rule.name.name": "name",
+  "lookup.rule.name.description": "Nach welcher Regel suchen Sie?",
+
+  "lookup.racefeat.name": "volksmerkmal",
+  "lookup.racefeat.description": "Sucht nach einem Volksmerkmal.",
+  "lookup.racefeat.name.name": "name",
+  "lookup.racefeat.name.description": "Nach welchem Volksmerkmal suchen Sie?",
+
+  "lookup.classfeat.name": "klassenmerkmal",
+  "lookup.classfeat.description": "Sucht nach einem Klassenmerkmal.",
+  "lookup.classfeat.name.name": "name",
+  "lookup.classfeat.name.description": "Nach welchem Klassenmerkmal suchen Sie?",
+
+  "lookup.skill.name": "fertigkeit",
+  "lookup.skill.description": "Sucht eine Fertigkeit.",
+  "lookup.skill.name.name": "name",
+  "lookup.skill.name.description": "Welche Fertigkeit suchen Sie?",
+
+  "lookup.class.name": "klasse",
+  "lookup.class.description": "Sucht nach einer Klasse.",
+  "lookup.class.name.name": "name",
+  "lookup.class.name.description": "Nach welcher Klasse suchen Sie?",
+
+  "lookup.subclass.name": "unterklasse",
+  "lookup.subclass.description": "Sucht nach einer Unterklasse.",
+  "lookup.subclass.name.name": "name",
+  "lookup.subclass.name.description": "Nach welcher Unterklasse suchen Sie?",
+
+  "lookup.background.name": "hintergrund",
+  "lookup.background.description": "Sucht nach einem Hintergrund.",
+  "lookup.background.name.name": "name",
+  "lookup.background.name.description": "Nach welchem Hintergrund suchen Sie?",
+
+  "lookup.token.name": "zeichen",
+  "lookup.token.description": "Zeigt ein Zeichen für ein Monster. Möglicherweise werden nicht alle Monster unterstützt.",
+  "lookup.token.name.name": "name",
+  "lookup.token.name.description": "Nach welchem Zeichen suchen Sie?",
+
+  "lookup.image.name": "bild",
+  "lookup.image.description": "Zeigt ein Bild für ein Monster. Möglicherweise werden nicht alle Monster unterstützt.",
+  "lookup.image.name.name": "name",
+  "lookup.image.name.description": "Nach welchem Bild suchen Sie?",
+
+  "lookup.trap.name": "falle",
+  "lookup.trap.description": "Sucht nach einer Falle.",
+  "lookup.trap.name.name": "name",
+  "lookup.trap.name.description": "Nach welcher Falle suchen Sie?",
+
+  "lookup.hazard.name": "gefahr",
+  "lookup.hazard.description": "Sucht nach einer Gefahr.",
+  "lookup.hazard.name.name": "name",
+  "lookup.hazard.name.description": "Nach welcher Gefahr suchen Sie?",
+
+  "lookup.cult.name": "sekte",
+  "lookup.cult.description": "Sucht eine Sekte.",
+  "lookup.cult.name.name": "name",
+  "lookup.cult.name.description": "Nach welcher Sekte suchen Sie?",
+
+  "lookup.boon.name": "segen",
+  "lookup.boon.description": "Sucht eine Segen.",
+  "lookup.boon.name.name": "name",
+  "lookup.boon.name.description": "Nach welchem Segen suchen Sie?",
+
+  "lookup.reward.name": "belohnung",
+  "lookup.reward.description": "Sucht eine Belohnung.",
+  "lookup.reward.name.name": "name",
+  "lookup.reward.name.description": "Nach welcher Belohnung suchen Sie?"
+}
